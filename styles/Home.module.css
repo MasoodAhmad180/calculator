@@ -1,0 +1,13 @@
+.row{
+  background-color: #2f80ff;
+  width: 100%;
+  border: none;
+  color: white;
+  font-size: 25px;
+  padding: 5px;
+  border-radius: 20px;
+}
+.row:hover{
+  background-color: #2E86C1;
+}
+
